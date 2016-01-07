@@ -4,7 +4,7 @@
 
 * maxclients 10000 #default is 10000
 
-* maxmemory 2147483648 #2G
+* maxmemory 4294967296 #4G
 
 * maxmemory-policy noeviction
 
